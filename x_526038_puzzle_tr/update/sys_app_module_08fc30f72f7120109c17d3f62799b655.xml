@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Puzzle">80fc30f72f7120109c17d3f62799b652</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Puzzles</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_526038_puzzle_tr_puzzle</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_526038_puzzle_tr.puzzle_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 23:14:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>08fc30f72f7120109c17d3f62799b655</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puzzles</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Puzzle Tracker" source="x_526038_puzzle_tr">367b38772f7120109c17d3f62799b62e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Puzzle Tracker">367b38772f7120109c17d3f62799b62e</sys_scope>
+        <sys_update_name>sys_app_module_08fc30f72f7120109c17d3f62799b655</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 23:14:06</sys_updated_on>
+        <timeline_page/>
+        <title>Puzzles</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

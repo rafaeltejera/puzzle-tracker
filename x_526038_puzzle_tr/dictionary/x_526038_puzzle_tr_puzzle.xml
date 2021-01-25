@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Puzzle" max_length="40" name="x_526038_puzzle_tr_puzzle" type="collection">
+        <element label="Length" max_length="20" name="length" type="decimal"/>
+        <element display="true" label="Name" mandatory="true" max_length="125" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Owner" mandatory="true" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element label="Width" max_length="20" name="width" type="decimal"/>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>
