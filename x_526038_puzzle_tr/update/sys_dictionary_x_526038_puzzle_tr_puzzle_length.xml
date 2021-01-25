@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Length</column_label>
+        <column_label>Length (cm)</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -54,14 +54,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-25 23:18:08</sys_created_on>
         <sys_id>8a8d3cb72f7120109c17d3f62799b692</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Length</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Length (cm)</sys_name>
         <sys_package display_value="Puzzle Tracker" source="x_526038_puzzle_tr">367b38772f7120109c17d3f62799b62e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Puzzle Tracker">367b38772f7120109c17d3f62799b62e</sys_scope>
         <sys_update_name>sys_dictionary_x_526038_puzzle_tr_puzzle_length</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-25 23:18:08</sys_updated_on>
+        <sys_updated_on>2021-01-25 23:37:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
